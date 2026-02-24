@@ -578,7 +578,6 @@ See also the section about [Organizational structure](#organizational-structure)
     - Codify expectations (product and eng)
 - [Ask Questions, Repeat The Hard Parts, and Listen](https://randsinrepose.com/archives/ask-questions-repeat-the-hard-parts-and-listen/), Rands in Repose: a good framework for letting your team make decisions autonomously. "My job is to teach you not to need me"
 - [Be good-argument-driven, not data-driven](https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
-- [Principles for decision-making in a flat organization](https://async.twist.com/decision-making-flat-organization/)
 - [Second-order Thinking](https://read.perspectiveship.com/p/second-order-thinking)
 
 > Arguments you should avoid using - that are logical fallacies
@@ -978,7 +977,7 @@ Quotes:
 ### Management style
 
 - [Humane Development](https://ernie.io/2014/12/17/humane-development/): "we are humans working with humans to develop software for the benefit of humans."
-- [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
+- [Leadership is making a comeback](https://coachjarkko.com/2017/02/22/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
 - [Management Philosophy](https://www.3002.ca/2017/06/management-philosophy.html)
 - [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - 🎞 [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA): beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
@@ -1004,7 +1003,7 @@ Quotes:
   - Leading with policy
   - Leading from consensus
   - Leading with conviction
-- [From good to great: A capability framework for building exceptional product engineering teams](https://buriti.ca/from-good-to-great-a-capability-framework-for-building-exceptional-product-engineering-teams-a8ca4e9e8f47)
+- [From good to great: A capability framework for building exceptional product engineering teams](https://medium.com/juans-and-zeroes/from-good-to-great-a-capability-framework-for-building-exceptional-product-engineering-teams-a8ca4e9e8f47)
 - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 
 Quote:
