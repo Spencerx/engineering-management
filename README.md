@@ -1353,6 +1353,9 @@ In terms of task management software, I can't recommend [Things](https://culture
   - My note: OKR do lead to over-discussing KR, under-discussing KPIs
   - Their approach: only pitch and prioritize problems worth solving with a simple P0 (existential risk), P1 (must do), P2 (nice to have)
   - Over 4 days every quarter with public commitment.
+- [Welcome to the Room](https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/)
+  - “Does our resource allocation actually support our theory of success?”
+  - “What signals will tell us whether our theory is plausible or not and how long will it be before we get those signals?”
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
